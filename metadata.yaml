@@ -1,0 +1,28 @@
+_repo: The-Mystery-of-Metropolisville_12195
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Eggleston, Edward
+    birthdate: 1837
+    deathdate: 1902
+    gutenberg_agent_id: '3293'
+    url: http://www.gutenberg.org/2009/agents/3293
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Eggleston
+description: This 1873 novel, set in a fictional Minnesota town during a real-estate
+  bubble, describes the carving up of the American frontier by the sharp speculators
+  who helped to usher in the Gilded Age. The story of greed and deception is both
+  timely and timeless.
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12195'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PS'
+- GITenberg
+title: The Mystery of Metropolisville
+url: http://www.gutenberg.org/ebooks/12195
